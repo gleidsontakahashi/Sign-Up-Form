@@ -1,6 +1,4 @@
-Sign Up Form
+Página de cadastro usando HTML e CSS.
+A página é responsiva.
 
-
-
-
- Aula do canal Girl Coding - https://www.youtube.com/watch?v=G590LY1hUik
+Foi feito seguindo o tutorial do canal Girl Coding - https://www.youtube.com/watch?v=G590LY1hUik
